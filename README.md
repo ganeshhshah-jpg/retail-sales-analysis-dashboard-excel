@@ -95,7 +95,7 @@ The workbook includes a consolidated **Dashboard** sheet combining:
 
 This gives a single-page view of business performance for 2024.
 
-![alt text](/Users/ganeshshah/Desktop/Data\ Analytics/Retail\ Sales\ Analysis\ Project/images/Dashboard.png)
+![alt text](https://github.com/ganeshhshah-jpg/retail-sales-analysis-dashboard-excel/blob/main/images/Dashboard.png)
 
 
 ---
