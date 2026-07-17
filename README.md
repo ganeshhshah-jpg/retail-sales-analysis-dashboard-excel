@@ -118,8 +118,8 @@ After cleaning, the dataset went from an unreliable raw export to a fully valida
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Ganesh Shah**
-📧 *ganeshhshah@gmail.com*
-🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-shah-195774296//)
+📧 *Email*: *ganeshhshah@gmail.com*
+🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-shah-195774296/)
 
 
 
